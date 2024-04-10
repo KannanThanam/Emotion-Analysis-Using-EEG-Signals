@@ -13,3 +13,5 @@ To install additional libraries required for this project, you can use pip, the 
 
 ```bash
 pip install <library-name>
+
+Replace <library-name> with the name of the library you want to install.
