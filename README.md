@@ -18,7 +18,7 @@ pip install <library-name>
 # Dataset
 
 Download the dataset [here](https://drive.google.com/drive/folders/13jF8KnoJr6n61YOMvRebPv6iPVfjlhMU?usp=drive_link)
-rename the folder name ***Dataset*** to ***Data***
+ - Rename the folder name ***Dataset*** to ***Data***
 
 # Run Project
 
