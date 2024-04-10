@@ -1,6 +1,6 @@
-Welcome to my project repository! 
-Project Name: Emotion Analysis using EEG Signals.
-This project utilizes Python 3.7 and Thonny IDE.
+# Emotion Analysis using EEG Signals
+
+Welcome to my project repository! This project focuses on analyzing emotions using EEG signals.
 
 ## Prerequisites
 
