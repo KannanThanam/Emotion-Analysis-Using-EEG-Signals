@@ -62,4 +62,4 @@ Run ***final.py***
 
 # Contact
 For any queries
-<p align="center">:email: <a href="mailto:kannanthanam147@gmail.com">kannanthanam147@gmail.com</a></p>
+<p>:email: <a href="mailto:kannanthanam147@gmail.com">kannanthanam147@gmail.com</a></p>
