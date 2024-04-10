@@ -23,8 +23,29 @@ This project focuses on analyzing emotions using EEG signals.
 
 - We have used CNN, KNN and XGBoost
 
-To run KNN download ***model.sav*** file [here](https://drive.google.com/file/d/1qQNEHYDGa5ycOnZ97DEpn4aNnXRnESJY/view?usp=sharing) - Request access.
+## To run KNN download ***model.sav*** file [here](https://drive.google.com/file/d/1qQNEHYDGa5ycOnZ97DEpn4aNnXRnESJY/view?usp=sharing) - Request access.
 Then Place the ***model.sav*** file in the project folder.
 
 - Open ***KNN Train.py*** file run it in Thonny.
-- 
+- It Shows Confusion Matrix as a result.
+
+- Then run ***KNN Test.py***
+- Opens an interface where you can select an image and result will be the emotion.
+
+## To run CNN download ***image_features.csv*** file [here](https://drive.google.com/file/d/19ZJkJI5RJOrNfQ0UV4Blb4mIEs2ZAjJn/view?usp=drive_link) - Request access.
+Then Place the ***image_features.csv*** file in the project folder.
+
+- Open ***CNN Train.py*** file run it in Thonny.
+- It Shows Confusion Matrix as a result.
+
+- Then run ***CNN Test.py***
+- Opens an interface where you can select an image and result will be the emotion.
+
+## To run XGBoost download ***xgboost_model.joblib*** file [here](https://drive.google.com/file/d/19sPzh1SFg3o_kEXA4mUMwzgJDH5Kky9y/view?usp=drive_link) - Request access.
+Then Place the ***xgboost_model.joblib*** file in the project folder.
+
+- Open ***CNN Train.py*** file run it in Thonny.
+- It Shows Confusion Matrix as a result.
+
+- Then run ***CNN Test.py***
+- Opens an interface where you can select an image and result will be the emotion.
