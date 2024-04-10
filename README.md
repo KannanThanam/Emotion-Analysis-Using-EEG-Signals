@@ -59,3 +59,7 @@ Then Place the ***xgboost_model.joblib*** file in the project folder.
 # Final Demo
 
 Run ***final.py***
+
+# Contact
+For any queries
+<p align="center">:email: <a href="mailto:kannanthanam147@gmail.com">kannanthanam147@gmail.com</a></p>
