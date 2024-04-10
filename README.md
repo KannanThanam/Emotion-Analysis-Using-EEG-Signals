@@ -67,5 +67,5 @@ Run ***final.py***
 # Contributors
 
 - [Kannan Thanasekaran](https://github.com/KannanThanam)
-- [Jane Smith](https://github.com/janesmith)
+- [Hemanth V R](https://github.com/VRH4623)
 
