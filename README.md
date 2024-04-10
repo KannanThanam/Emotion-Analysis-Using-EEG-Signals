@@ -23,8 +23,8 @@ This project focuses on analyzing emotions using EEG signals.
 
 - We have used CNN, KNN and XGBoost
 
-To run KNN download **model.sav** file [here](https://drive.google.com/file/d/1qQNEHYDGa5ycOnZ97DEpn4aNnXRnESJY/view?usp=sharing) - Request access.
-Then Place the **model.sav** file in the project folder.
+To run KNN download ***model.sav*** file [here](https://drive.google.com/file/d/1qQNEHYDGa5ycOnZ97DEpn4aNnXRnESJY/view?usp=sharing) - Request access.
+Then Place the ***model.sav*** file in the project folder.
 
-- Open **KNN Train.py** file run it in Thonny.
+- Open ***KNN Train.py*** file run it in Thonny.
 - 
